@@ -1,7 +1,7 @@
-snowsphere
+# snowsphere
 
 ## 👋 About Me
-- Web Engineer (Full Stack?) 🐣
+Web Engineer (Full Stack?) 🐣
 
 ## 🌌 Portal
 https://portal.snowsphere.net
